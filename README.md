@@ -35,7 +35,7 @@ A smart system that monitors temperature and humidity using an I2C network compo
 
 This image shows the physical hardware connections including STM32, AHT10 sensor, Raspberry Pi, and LCD.
 
-![Real System](images/real%20photo%202.jpg)
+![Real System](realphoto2.jpg)
 
 ---
 
@@ -43,4 +43,4 @@ This image shows the physical hardware connections including STM32, AHT10 sensor
 
 Live data is visualized in Grafana using real-time graphs of temperature and humidity:
 
-![Grafana Dashboard](images/grafana.png)
+![Grafana Dashboard](grafana.png)
